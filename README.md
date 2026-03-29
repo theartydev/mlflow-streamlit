@@ -4,7 +4,7 @@ This project demonstrates how to track machine learning experiments using MLflow
 
 ## Preview
 
-![App Screenshot](assets/app.png)
+![App Screenshot](assets/App Screenshot.png)
 
 ## What this project does
 
